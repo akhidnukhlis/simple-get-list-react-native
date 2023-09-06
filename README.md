@@ -20,7 +20,7 @@ Is a simple Android application using the React-Native language. In this applica
    ```sh
     npx expo start
    ```
-  
+
 ## Contact
 
 Name - @akhidnukhlis - nukhlis@gmail.com
