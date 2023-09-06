@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#841584',
     borderRadius: 10,
     paddingVertical: 12,
-    paddingHorizontal: 16,
+    paddingHorizontal: 14,
+    marginRight: -8,
     alignItems: 'center',
   },
   searchButtonText: {
@@ -36,6 +37,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   noResultsText: {
+    marginLeft: 8,
     fontSize: 16,
     fontStyle: 'italic',
   },
